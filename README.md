@@ -22,7 +22,7 @@ The project is built from 7 sheets:
 ---
 
 ## 🎯 Project Objectives
-- Visualize monthly sales trends and product popularity
+- Visualize sales trends and product popularity
 - Identify top countries and customers by revenue
 - Compare coffee roast preferences across regions
 - Highlight loyalty card user behavior
